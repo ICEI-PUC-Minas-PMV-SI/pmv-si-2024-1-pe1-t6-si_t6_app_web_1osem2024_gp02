@@ -1,54 +1,27 @@
 # Introdução
 
-Imagine que você deseja apresentar este projeto para investidores que deverão decidir se investem ou não no desenvolvimento da sua ferramenta.
+Investir no mercado financeiro requer não apenas conhecimento técnico, mas também uma habilidade crucial: a capacidade de interpretar e reagir adequadamente às informações disponíveis. No entanto, as dificuldades enfrentadas por investidores em relação ao consumo de notícias são diversas e podem impactar significativamente suas decisões e resultados.
 
-A **Introdução** consiste das etapas: *Contextualização -- Definição do problema -- Definição dos Objetivos -- Justificativa*, e tem como função situar o seu trabalho dentro de um contexto de mercado e mostrar a importância da sua proposta para resolver a dor de um usuário.
+Um dos desafios mais comuns para os investidores é a gestão do tempo. O mercado financeiro é dinâmico e reage rapidamente a notícias e eventos. Investidores muitas vezes se veem sob pressão para acompanhar constantemente as informações relevantes, o que pode ser exaustivo e consumir um tempo precioso que poderia ser dedicado a análises mais aprofundadas.
 
-A Contextualização deve situar sem projeto em um determinado contexto de mercado, a fim de fornecer informações adicionais que possam ajudar a entender melhor o assunto que você irá abordar. Serve também para definir a relevância do seu assunto, uma vez que mostra o tamanho do mercado em que se está inserido. Ela pode envolver a análise de vários aspectos, como o ambiente histórico, cultural, político e social em que o problema a ser atacado surgiu.
+Além da questão do tempo, a dificuldade de compreensão das notícias também é um obstáculo significativo. Muitas vezes, as informações disponíveis são complexas, cheias de jargões financeiros e nuances que podem confundir até mesmo investidores experientes. A interpretação errônea ou incompleta de notícias pode levar a decisões equivocadas e prejuízos financeiros.
 
-Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
+Tendo isto em mente, é imprescindível que o investidor, tanto iniciante como avançado, consiga acessar informações de maneira rápida e objetiva, com fontes seguras e que o ajude a entender a melhor decisão que possa ser tomada. 
+ 
 
 ## Problema
 
-Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, **não** é a hora de comentar sobre a solução/aplicação.
+No contexto da crescente tendência de pessoas físicas a investir no mercado financeiro, a falta de clareza e a sobrecarga de informações nas notícias financeiras representam desafios significativos para os investidores, sejam eles inexperientes ou experientes. A dificuldade de compreensão das notícias, repletas de termos técnicos e nuances complexas, aliada à pressão de acompanhar constantemente as informações relevantes, pode levar a decisões equivocadas e prejuízos financeiros. Além disso, a falta de um agregador de notícias personalizável, que priorize as informações mais relevantes para cada investidor, torna ainda mais desafiante a tarefa de se manter bem informado e tomar decisões embasadas no mercado financeiro.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
+Considerando esses obstáculos, a necessidade de uma solução que ofereça acesso rápido, objetivo e personalizado a notícias financeiras torna-se evidente para atender às demandas e necessidades dos investidores, sejam eles novatos em busca de educação financeira ou investidores experientes em busca de insights relevantes para a gestão eficiente de seus ativos.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
-## Objetivos
-
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Uma aplicação que consolide e entregue as notícias relevantes para ambos os grupos de investidores, tanto os inexperientes quanto os experientes, seria de extrema importância e valor no cenário atual do mercado financeiro. Para os investidores inexperientes, essa ferramenta poderia fornecer informações claras e educativas, auxiliando na compreensão dos conceitos básicos, na identificação de oportunidades e na mitigação de possíveis enganos. Por outro lado, para os investidores experientes que gerenciam diversos ativos, essa aplicação poderia oferecer um panorama abrangente das notícias mais relevantes e impactantes, facilitando a tomada de decisões informadas e eficazes.
 
-Lembre-se de pesquisar e utilizar números que justifiquem por que é importante que tal problema seja resolvido ou que mostrem o impacto do problema na vida das pessoas.
+Ao centralizar as notícias essenciais em um único local e adaptar a apresentação conforme o nível de conhecimento do investidor, essa aplicação poderia contribuir significativamente para a educação financeira, a gestão eficiente dos investimentos e a redução da sobrecarga informacional. Dessa forma, tanto os novos quanto os experientes investidores poderiam se beneficiar de uma fonte confiável e personalizada de informações, promovendo uma abordagem mais consciente e fundamentada no mercado financeiro.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
-
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Pessoas físicas, maiores de 18 anos que possuem investimentos ou se interessem pelo mercado financeiro, com qualquer grau de expertise.
