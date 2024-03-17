@@ -13,6 +13,7 @@ Tendo isto em mente, é imprescindível que o investidor, tanto iniciante, como 
 
 No contexto da crescente tendência de pessoas físicas a investir no mercado financeiro, a falta de clareza e a sobrecarga de informações nas notícias financeiras representam desafios significativos para os investidores, sejam eles inexperientes ou experientes. A dificuldade de compreensão das notícias, repletas de termos técnicos e nuances complexas, aliada à pressão de acompanhar constantemente as informações relevantes, pode levar a decisões equivocadas e prejuízos financeiros. Além disso, a falta de um agregador de notícias personalizável, que priorize as informações mais relevantes para cada investidor, torna ainda mais desafiante a tarefa de se manter bem informado e tomar decisões embasadas no mercado financeiro.
 
+Considerando esses obstáculos, a necessidade de uma solução que ofereça acesso rápido, objetivo e personalizado a notícias financeiras torna-se evidente para atender às demandas e necessidades dos investidores, sejam eles novatos em busca de educação financeira ou investidores experientes em busca de insights relevantes para a gestão eficiente de seus ativos.
 
 
 
