@@ -25,4 +25,5 @@ Ao centralizar as notícias essenciais em um único local e adaptar a apresenta�
 
 
 ## Público-Alvo
-Pessoas físicas, maiores de 18 anos que possuem investimentos ou se interessem pelo mercado financeiro, com qualquer grau de expertise.
+
+Indivíduos maiores de 18 anos que possuam investimentos ou demonstrem interesse pelo mercado financeiro, independentemente do nível de conhecimento.
