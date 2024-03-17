@@ -6,7 +6,13 @@
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+
+
+Esse projeto tem como base, desenvolver uma aplicação que reúna e entregue notícias pertinentes para investidores de todos os níveis. Para os iniciantes, serão disponibilizadas informações claras e educativas, ajudando na compreensão dos conceitos básicos e na identificação de oportunidades. Já para os investidores experientes, proporcionaria uma visão abrangente das notícias mais relevantes, auxiliando na tomada de decisões informadas e eficazes. 
+A API Financeira Global é uma ferramenta projetada para proporcionar acesso rápido e fácil a uma ampla variedade de dados financeiros, incluindo notícias em tempo real, análises de mercado e identificação de entidades de destaque. Ao consolidar informações de diversas fontes confiáveis e apresentá-las de forma organizada e acessível, essa API capacita investidores e profissionais do mercado financeiro a tomar decisões mais informadas e estratégicas.
+
+
+
 
 ## Integrantes
 
