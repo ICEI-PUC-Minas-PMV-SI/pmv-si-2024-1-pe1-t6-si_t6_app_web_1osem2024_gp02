@@ -6,7 +6,7 @@ Um dos desafios mais comuns para os investidores é a gestão do tempo. O mercad
 
 Além da questão do tempo, a dificuldade de compreensão das notícias também é um obstáculo significativo. Muitas vezes, as informações disponíveis são complexas, cheias de jargões financeiros e nuances que podem confundir até mesmo investidores experientes. A interpretação errônea ou incompleta de notícias pode levar a decisões equivocadas e prejuízos financeiros.
 
-Tendo isto em mente, é imprescindível que o investidor, tanto iniciante, como avançado, consiga acessar informações de maneira rápida e objetiva, com fontes seguras e que o ajude a entender a melhor decisão que possa ser tomada. 
+Tendo isto em mente, é fundamental que o investidor, seja ele novato ou experiente, seja capaz de acessar informações de forma ágil e objetiva, provenientes de fontes confiáveis, a fim de auxiliá-lo na tomada da melhor decisão possível.
  
 
 ## Problema
