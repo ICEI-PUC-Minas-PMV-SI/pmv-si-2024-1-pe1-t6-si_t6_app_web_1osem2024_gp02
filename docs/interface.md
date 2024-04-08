@@ -1,20 +1,21 @@
 
 # Projeto de Interface
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
+Dado o propósito de ser uma página de notícias, a interface foi concebida para ser simples e direta, consistindo em apenas algumas páginas: a página inicial, pesquisa, notícia, empresas e seguidos.
 
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+Na página inicial, os usuários têm sua primeira experiência ao acessar o site de notícias. Aqui, eles encontram uma visão geral do conteúdo mais recente e relevante, apresentando manchetes e destaques. Isso permite que os usuários naveguem rapidamente pelas notícias mais recentes e importantes, obtendo uma ideia geral dos eventos atuais e dos tópicos em destaque.
+
+A página de pesquisa oferece aos usuários a capacidade de procurar notícias específicas usando palavras-chave ou filtros. Isso facilita a descoberta de conteúdo relevante, permitindo que os usuários encontrem informações sobre tópicos de seu interesse de forma rápida e eficiente.
+
+Quando os usuários clicam em uma notícia específica, são redirecionados para a página de notícia. Aqui, eles podem ler a notícia completa em detalhes, incluindo o texto completo, imagens relevantes e, possivelmente, conteúdo multimídia, como vídeos ou infográficos.
+
+Na página dedicada às empresas, os usuários podem encontrar informações sobre empresas de seu interesse e segui-las para receber notícias personalizadas sobre suas atividades, desempenho financeiro e outros desenvolvimentos relevantes. 
+
+A página de seguidos permite aos usuários personalizar sua experiência de notícias, acompanhando notícias de empresas específicas que os interessam. Isso garante que os usuários recebam atualizações sobre os assuntos que mais lhes interessam, mantendo-os informados sobre os temas que consideram importantes.
 
 ## User Flow
 
-![Exemplo de UserFlow](img/userflow.jpg)
-
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
-
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
+![UserFlow](https://github.com/diog-o/pmv-si-2024-1-pe1-t6-si_t6_app_web_1osem2024_gp02/tree/main/docs/img/userflow_.png)
 
 
 ## Wireframes
